@@ -29,10 +29,17 @@ Custom Domain Selection
     To scrape a subset of supported domains, modify the list in main.py:
     -> store_list = ["westside.com", "freakins.com"]  # Add/remove domains as needed
 
+Through server :
+1. Install requirements.txt
+2. run the command in terminal -> uvicorn app:app --reload 
+3. run the api on the browser ->  "http://127.0.0.1:8000/extract?stores=littleboxindia.com&stores=westside.com"
+4. Can take sometime to extract the fully data including "size chart"
+
+
 📝 Output
 After running, you'll find a file:
 
-    aggregated_output.json
+    final_output.json (if run main.py locally) / On the browser also(If run server)
 
 Example structure:
 
@@ -50,6 +57,7 @@ Example structure:
 }
 
 ## Instruction to run "Suqah.com, freakins.com"
+
 1. Install dependecies from requirements.txt
 2. Also install tesseract-ocr engine if not already:
 
