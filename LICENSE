@@ -1,0 +1,3 @@
+## Don't Forget:
+- Also add a `requirements.txt` file if not already done.
+- Let me know if you want to support CLI arguments or config-based store input — I can extend the README for that too.

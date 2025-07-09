@@ -1,0 +1,961 @@
+{
+  "westside.com": {
+    "store_name": "westside.com",
+    "products": [
+      {
+        "product_title": "Nuon Grey Washed High-Rise Denim Skirt",
+        "brand": "Nuon",
+        "sku": "301023003001",
+        "Product Url": "https://www.westside.com/products/nuon-grey-washed-high-rise-denim-skirt-301023003",
+        "variant": "Grey / 26",
+        "price": "₹ 999.00",
+        "category": "Skirts",
+        "quantity": "1008",
+        "size_chart": {
+          "headers": [
+            "Size (A)",
+            "To Fit Waist (B)",
+            "To Fit Hip (C)"
+          ],
+          "rows": [
+            {
+              "Size (A)": "XXS - 24",
+              "To Fit Waist (B)": "57",
+              "To Fit Hip (C)": "81"
+            },
+            {
+              "Size (A)": "XS - 24",
+              "To Fit Waist (B)": "62",
+              "To Fit Hip (C)": "86"
+            },
+            {
+              "Size (A)": "S-26",
+              "To Fit Waist (B)": "67",
+              "To Fit Hip (C)": "91"
+            },
+            {
+              "Size (A)": "M-28",
+              "To Fit Waist (B)": "72",
+              "To Fit Hip (C)": "96"
+            },
+            {
+              "Size (A)": "L-30",
+              "To Fit Waist (B)": "77",
+              "To Fit Hip (C)": "101"
+            },
+            {
+              "Size (A)": "XL-32",
+              "To Fit Waist (B)": "82",
+              "To Fit Hip (C)": "106"
+            },
+            {
+              "Size (A)": "2XL-34",
+              "To Fit Waist (B)": "84",
+              "To Fit Hip (C)": "109"
+            },
+            {
+              "Size (A)": "3XL-36",
+              "To Fit Waist (B)": "89",
+              "To Fit Hip (C)": "114"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Wardrobe Black Striped Shirt",
+        "brand": "Wardrobe",
+        "sku": "301025811001",
+        "Product Url": "https://www.westside.com/products/wardrobe-black-striped-shirt-301025811",
+        "variant": "Black / XS",
+        "price": "₹ 1499.00",
+        "category": "Formal Shirts",
+        "quantity": "490",
+        "size_chart": {
+          "headers": [
+            "Size (A)",
+            "To Fit Bust (B)",
+            "To Fit Waist (C)",
+            "To Fit Hip (D)"
+          ],
+          "rows": [
+            {
+              "Size (A)": "XXS",
+              "To Fit Bust (B)": "78",
+              "To Fit Waist (C)": "62",
+              "To Fit Hip (D)": "86"
+            },
+            {
+              "Size (A)": "XS",
+              "To Fit Bust (B)": "83",
+              "To Fit Waist (C)": "67",
+              "To Fit Hip (D)": "91"
+            },
+            {
+              "Size (A)": "S",
+              "To Fit Bust (B)": "88",
+              "To Fit Waist (C)": "72",
+              "To Fit Hip (D)": "96"
+            },
+            {
+              "Size (A)": "M",
+              "To Fit Bust (B)": "93",
+              "To Fit Waist (C)": "77",
+              "To Fit Hip (D)": "101"
+            },
+            {
+              "Size (A)": "L",
+              "To Fit Bust (B)": "98",
+              "To Fit Waist (C)": "82",
+              "To Fit Hip (D)": "106"
+            },
+            {
+              "Size (A)": "XL",
+              "To Fit Bust (B)": "103",
+              "To Fit Waist (C)": "87",
+              "To Fit Hip (D)": "111"
+            },
+            {
+              "Size (A)": "2XL",
+              "To Fit Bust (B)": "108",
+              "To Fit Waist (C)": "92",
+              "To Fit Hip (D)": "116"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Nuon Off-White Harem-Style Mid-Rise Cotton-Blend Pants",
+        "brand": "Nuon",
+        "sku": "301026163001",
+        "Product Url": "https://www.westside.com/products/nuon-off-white-harem-style-mid-rise-cotton-blend-pants-301026163",
+        "variant": "White / 26",
+        "price": "₹ 1299.00",
+        "category": "Trousers",
+        "quantity": "628",
+        "size_chart": {
+          "headers": [
+            "Size (A)",
+            "To Fit Waist (B)",
+            "To Fit Hip (C)"
+          ],
+          "rows": [
+            {
+              "Size (A)": "XXS - 24",
+              "To Fit Waist (B)": "57",
+              "To Fit Hip (C)": "81"
+            },
+            {
+              "Size (A)": "XS - 24",
+              "To Fit Waist (B)": "62",
+              "To Fit Hip (C)": "86"
+            },
+            {
+              "Size (A)": "S-26",
+              "To Fit Waist (B)": "67",
+              "To Fit Hip (C)": "91"
+            },
+            {
+              "Size (A)": "M-28",
+              "To Fit Waist (B)": "72",
+              "To Fit Hip (C)": "96"
+            },
+            {
+              "Size (A)": "L-30",
+              "To Fit Waist (B)": "77",
+              "To Fit Hip (C)": "101"
+            },
+            {
+              "Size (A)": "XL-32",
+              "To Fit Waist (B)": "82",
+              "To Fit Hip (C)": "106"
+            },
+            {
+              "Size (A)": "2XL-34",
+              "To Fit Waist (B)": "84",
+              "To Fit Hip (C)": "109"
+            },
+            {
+              "Size (A)": "3XL-36",
+              "To Fit Waist (B)": "89",
+              "To Fit Hip (C)": "114"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "LOV Taupe Fringe-Detailed A-Line Dress",
+        "brand": "LOV",
+        "sku": "301026324001",
+        "Product Url": "https://www.westside.com/products/lov-taupe-fringe-detailed-a-line-dress-301026324",
+        "variant": "Brown / XS",
+        "price": "₹ 1899.00",
+        "category": "Dresses",
+        "quantity": "191",
+        "size_chart": {
+          "headers": [
+            "Size (A)",
+            "To Fit Bust (B)",
+            "To Fit Waist (C)",
+            "To Fit Hip (D)"
+          ],
+          "rows": [
+            {
+              "Size (A)": "XXS",
+              "To Fit Bust (B)": "78",
+              "To Fit Waist (C)": "62",
+              "To Fit Hip (D)": "86"
+            },
+            {
+              "Size (A)": "XS",
+              "To Fit Bust (B)": "83",
+              "To Fit Waist (C)": "67",
+              "To Fit Hip (D)": "91"
+            },
+            {
+              "Size (A)": "S",
+              "To Fit Bust (B)": "88",
+              "To Fit Waist (C)": "72",
+              "To Fit Hip (D)": "96"
+            },
+            {
+              "Size (A)": "M",
+              "To Fit Bust (B)": "93",
+              "To Fit Waist (C)": "77",
+              "To Fit Hip (D)": "101"
+            },
+            {
+              "Size (A)": "L",
+              "To Fit Bust (B)": "98",
+              "To Fit Waist (C)": "82",
+              "To Fit Hip (D)": "106"
+            },
+            {
+              "Size (A)": "XL",
+              "To Fit Bust (B)": "103",
+              "To Fit Waist (C)": "87",
+              "To Fit Hip (D)": "111"
+            },
+            {
+              "Size (A)": "2XL",
+              "To Fit Bust (B)": "108",
+              "To Fit Waist (C)": "92",
+              "To Fit Hip (D)": "116"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "littleboxindia.com": {
+    "store_name": "littleboxindia.com",
+    "products": [
+      {
+        "product_title": "Yellow Butterfly Orchid Decor Beach Flat",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/yellow-butterfly-orchid-decor-beach-flat",
+        "price": "Rs. 949.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/CR_4_1024x1024.jpg?v=1751958504",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Blue Butterfly Orchid Decor Beach Flat",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/blue-butterfly-orchid-decor-beach-flat",
+        "price": "Rs. 949.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/CR_1_1024x1024.jpg?v=1751958494",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Pink Butterfly Orchid Decor Beach Flat",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/pink-butterfly-orchid-elegant-beach-flat",
+        "price": "Rs. 949.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/CR_5_1024x1024.jpg?v=1751958483",
+        "size_chart": null
+      },
+      {
+        "product_title": "Tan Woven-Textured Multi-Strap Slides",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/tan-woven-textured-multi-strap-slides",
+        "price": "Rs. 849.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/CR_1024x1024.jpg?v=1751958472",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Brown & Beige Colorblocked Buckle Strap Sandals",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/brown-beige-colorblocked-buckle-strap-sandals",
+        "price": "Rs. 899.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/cr_6_1024x1024.jpg?v=1751958462",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Black & White Colorblocked  Square Toe Block Heels",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/black-white-colorblocked-square-toe-block-heels",
+        "price": "Rs. 1,249.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/CR_10_1024x1024.jpg?v=1751958452",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Blue Flower Decor High Heel Beach Sandals",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/blue-flower-decor-high-heel-beach-sandals",
+        "price": "Rs. 1,449.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/CR_7_1024x1024.jpg?v=1751958442",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Brown Slip-on Platform Ankle Boots",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/brown-slip-on-platform-ankle-boots",
+        "price": "Rs. 1,899.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/26_b252c495-f22b-49e1-a183-efd18e2a55be_1024x1024.jpg?v=1743853162",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "All For You Platform Sandals",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/all-for-you-platform-sandals",
+        "price": "Rs. 1,149.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/14-4_1024x1024.jpg?v=1743853158",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Round Toe Chunky Loafers With Silver Chain",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/round-toe-chunky-loafers-with-silver-chain",
+        "price": "Rs. 1,149.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/22_33f3b37e-81f5-4c1f-b3e7-917f035c24d1_1024x1024.jpg?v=1743853094",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "Chunky Platform Lace-Up Metal Buckle High Top Motorcycle Boot",
+        "product_url": "https://littleboxindia.com/collections/womens-footwear-new-arrivals/products/chunky-platform-lace-up-metal-buckle-high-top-motorcycle-boot",
+        "price": "Rs. 1,899.00",
+        "image_url": "https://littleboxindia.com/cdn/shop/files/24f9af1e77f4f329ded40e04a564a0a4_1024x1024.jpg?v=1743664037",
+        "size_chart": {
+          "headers": [
+            "EURO",
+            "UKUS",
+            "To Fit Foot Length"
+          ],
+          "rows": [
+            {
+              "EURO": "35",
+              "UKUS": "2",
+              "To Fit Foot Length": "9"
+            },
+            {
+              "EURO": "36",
+              "UKUS": "3",
+              "To Fit Foot Length": "9.2"
+            },
+            {
+              "EURO": "37",
+              "UKUS": "4",
+              "To Fit Foot Length": "9.4"
+            },
+            {
+              "EURO": "38",
+              "UKUS": "5",
+              "To Fit Foot Length": "9.7"
+            },
+            {
+              "EURO": "39",
+              "UKUS": "6",
+              "To Fit Foot Length": "9.9"
+            },
+            {
+              "EURO": "40",
+              "UKUS": "7",
+              "To Fit Foot Length": "10.2"
+            },
+            {
+              "EURO": "41",
+              "UKUS": "8",
+              "To Fit Foot Length": "10.4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "suqah.com": {
+    "store_name": "suqah.com",
+    "products": [
+      {
+        "product_title": "SQUARE NECK BODYSUIT",
+        "product_url": "https://www.suqah.com/products/square-neck-bodysuit-2",
+        "price": "Rs. 1,699.00",
+        "image_url": "https://www.suqah.com/cdn/shop/files/1_a85753ea-0c82-45da-80b1-53f21d09c7f9.png?v=1750758877&width=533",
+        "size_chart": {
+          "headers": [
+            "Size",
+            "BUST",
+            "WAIST",
+            "HIPS"
+          ],
+          "rows": [
+            {
+              "Size": "XS",
+              "BUST": "32.5 - 33.5\"",
+              "WAIST": "24 - 26\"",
+              "HIPS": "34 - 36.5\""
+            },
+            {
+              "Size": "S",
+              "BUST": "34 - 36\"",
+              "WAIST": "26.5 - 28.5\"",
+              "HIPS": "37 - 39\""
+            },
+            {
+              "Size": "M",
+              "BUST": "36.5 - 38.5\"",
+              "WAIST": "29 - 31\"",
+              "HIPS": "39.5 - 41.5\""
+            },
+            {
+              "Size": "L",
+              "BUST": "39 - 41\"",
+              "WAIST": "31.5 - 34.5\"",
+              "HIPS": "42 - 44\""
+            },
+            {
+              "Size": "XL",
+              "BUST": "41.5 - 44.5\"",
+              "WAIST": "35 - 38\"",
+              "HIPS": "44.5 - 47.5\""
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "SQUARE NECK BODYSUIT",
+        "product_url": "https://www.suqah.com/products/test-1",
+        "price": "Rs. 1,699.00",
+        "image_url": "https://www.suqah.com/cdn/shop/files/IMG_0304.jpg?v=1750797992&width=533",
+        "size_chart": {
+          "headers": [
+            "Size",
+            "BUST",
+            "WAIST",
+            "HIPS"
+          ],
+          "rows": [
+            {
+              "Size": "XS",
+              "BUST": "32.5 - 33.5\"",
+              "WAIST": "24 - 26\"",
+              "HIPS": "34 - 36.5\""
+            },
+            {
+              "Size": "S",
+              "BUST": "34 - 36\"",
+              "WAIST": "26.5 - 28.5\"",
+              "HIPS": "37 - 39\""
+            },
+            {
+              "Size": "M",
+              "BUST": "36.5 - 38.5\"",
+              "WAIST": "29 - 31\"",
+              "HIPS": "39.5 - 41.5\""
+            },
+            {
+              "Size": "L",
+              "BUST": "39 - 41\"",
+              "WAIST": "31.5 - 34.5\"",
+              "HIPS": "42 - 44\""
+            },
+            {
+              "Size": "XL",
+              "BUST": "41.5 - 44.5\"",
+              "WAIST": "35 - 38\"",
+              "HIPS": "44.5 - 47.5\""
+            }
+          ]
+        }
+      },
+      {
+        "product_title": "SQUARE NECK BODYSUIT",
+        "product_url": "https://www.suqah.com/products/square-neck-bodysuit-copy",
+        "price": "Rs. 1,699.00",
+        "image_url": "https://www.suqah.com/cdn/shop/files/2_7228983e-8a3e-486b-a931-f25854dc4c3a.png?v=1750691502&width=533",
+        "size_chart": {
+          "headers": [
+            "Size",
+            "BUST",
+            "WAIST",
+            "HIPS"
+          ],
+          "rows": [
+            {
+              "Size": "XS",
+              "BUST": "32.5 - 33.5\"",
+              "WAIST": "24 - 26\"",
+              "HIPS": "34 - 36.5\""
+            },
+            {
+              "Size": "S",
+              "BUST": "34 - 36\"",
+              "WAIST": "26.5 - 28.5\"",
+              "HIPS": "37 - 39\""
+            },
+            {
+              "Size": "M",
+              "BUST": "36.5 - 38.5\"",
+              "WAIST": "29 - 31\"",
+              "HIPS": "39.5 - 41.5\""
+            },
+            {
+              "Size": "L",
+              "BUST": "39 - 41\"",
+              "WAIST": "31.5 - 34.5\"",
+              "HIPS": "42 - 44\""
+            },
+            {
+              "Size": "XL",
+              "BUST": "41.5 - 44.5\"",
+              "WAIST": "35 - 38\"",
+              "HIPS": "44.5 - 47.5\""
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "freakins.com": {
+    "store_name": "freakins.com",
+    "products": [
+      {
+        "product_title": "Iconic White Women's Wide Jeans",
+        "product_url": "https://freakins.com/products/classic-white-wide-jeans-optical",
+        "price": "₹1,399",
+        "image_url": "https://freakins.com/cdn/shop/files/03april_2840-Edit.jpg?v=1749907242&width=1001",
+        "size_chart": {
+          "headers": [
+            "SIZE",
+            "WAIST",
+            "HIPS",
+            "Inseam",
+            "Outseam"
+          ],
+          "rows": [
+            {
+              "Size": "26",
+              "WAIST": "26",
+              "HIPS": "37",
+              "Inseam":"29",
+              "Outseam":"41"
+            },
+            {
+             "Size": "28",
+              "WAIST": "28",
+              "HIPS": "39",
+              "Inseam":"29",
+              "Outseam":"41"
+            },
+            {
+             "Size": "30",
+              "WAIST": "30",
+              "HIPS": "41",
+              "Inseam":"29",
+              "Outseam":"41"
+            },
+            {
+              "Size": "32",
+              "WAIST": "32",
+              "HIPS": "43",
+              "Inseam":"28.5",
+              "Outseam":"41"
+            },
+            {
+              "Size": "34",
+              "WAIST": "34",
+              "HIPS": "45",
+              "Inseam":"28",
+              "Outseam":"41"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
